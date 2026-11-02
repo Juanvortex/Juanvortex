@@ -1,49 +1,62 @@
 <div align="center">☠️ JUANVORTEX 🤖
 
+<img src="vortex.png" width="220" alt="JuanVortex Shadow Hacker">
 
+I DON'T FOLLOW THE SYSTEM. I REWRITE IT.
 
-<img src="vortex.png" width="200" alt="JuanVortex Shadow Hacker">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Welcome+to+my+digital+world...;Building+the+future+with+code;Learning+AI+%26+Machine+Learning;Think+different.+Code+different." alt="Typing SVG">
 
-
-"I don't follow the system. I rewrite it."
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Silent+moves.+Ruthless+logic.;Every+line+is+a+calculated+move.;Building+what+comes+next." alt="Typing SVG"><img src="https://img.shields.io/badge/STATUS-ONLINE-111111?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/MINDSET-UNLIMITED-111111?style=for-the-badge&logo=target&logoColor=white"></div>---
+</div>---
 
 "// THE OPERATOR"
 
-«I turn curiosity into code, obstacles into solutions, and ideas into systems.
+«"Every line is a calculated move."»
 
-I learn in silence, build with intent, and let the results speak.
-
-The mission isn't to fit into the system. It's to build something that changes it.»
-
-- 🕶️ Always learning. Always evolving.
-- ⚡ Interested in software, AI, and the systems behind the screen.
-- 🛠️ Building projects one commit at a time.
-- ♟️ Every line is a calculated move.
+- 🧠 ICT graduate exploring the world of technology.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 💻 Learning programming and building digital solutions.
+- ⚡ Focused on problem-solving, creativity, and continuous growth.
+- ♟️ Silent moves. Ruthless logic. Zero limits.
 
 ---
 
 "// ARSENAL"
 
-<div align="center"><img src="https://skillicons.dev/icons?i=c,html,css,js,python,git,github,vscode&theme=dark" alt="Technology stack"></div>---
+Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,html,css,js,python,git,github,vscode" />
+</p>---
 
 "// CURRENT DIRECTIVE"
 
-[✓] Think beyond the obvious
-[✓] Learn the rules
-[>] Break limitations
-[>] Build something legendary
+class JuanVortex:
+    def __init__(self):
+        self.name = "JUANVORTEX"
+        self.focus = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Programming",
+            "Technology"
+        ]
+        self.mindset = "Never stop learning"
+
+    def execute(self):
+        return "Building something extraordinary..."
+
+vortex = JuanVortex()
+print(vortex.execute())
 
 ---
 
 "// THE CODE"
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9" height="165" alt="GitHub Statistics"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=777777" height="165" alt="GitHub Streak"></div>---
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Juanvortex&show_icons=true&theme=midnight-purple&hide_border=true" height="165" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Juanvortex&theme=midnight-purple&hide_border=true" height="165" /></div>---
 
-<div align="center">"ACCESS GRANTED. THE STORY IS STILL LOADING."
+<div align="center">⚡ ACCESS GRANTED. THE STORY IS STILL LOADING.
 
-⚡ Stay curious. Stay dangerous. ☠️
+Stay curious. Stay dangerous.
+
+♟️ "JUANVORTEX" © 2026
 
 </div>
