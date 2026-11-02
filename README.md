@@ -1,6 +1,10 @@
 <div align="center">☠️ JUANVORTEX 🤖
 
+
+
 <img src="vortex.png" width="200" alt="JuanVortex Shadow Hacker">
+
+
 "I don't follow the system. I rewrite it."
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Silent+moves.+Ruthless+logic.;Every+line+is+a+calculated+move.;Building+what+comes+next." alt="Typing SVG"><img src="https://img.shields.io/badge/STATUS-ONLINE-111111?style=for-the-badge&logo=github&logoColor=white">
