@@ -1,11 +1,14 @@
-<div align="center">☠️ JUANVORTEX 🤖
+<div align="center">
+<div style="position: relative;">
+    
+<tittle allign="center">☠️ JUANVORTEX 🤖</tittle>
 
-<img src="vortex.png" width="220" alt="JuanVortex Shadow Hacker">
+<img src="vortex.png" width="250" alt="JuanVortex Shadow Hacker">
 
 I DON'T FOLLOW THE SYSTEM. I REWRITE IT.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Welcome+to+my+digital+world...;Building+the+future+with+code;Learning+AI+%26+Machine+Learning;Think+different.+Code+different." alt="Typing SVG">
-
+</div>
 </div>---
 
 "// THE OPERATOR"
